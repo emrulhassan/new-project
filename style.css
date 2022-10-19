@@ -1,0 +1,55 @@
+*{box-sizing: border-box;}
+body{
+	width: 100%;
+	margin:0;
+	padding:0;
+	background-color:black;
+	font-family: 'Oswald', sans-serif;
+
+}
+
+.container{ width:90% 
+			margin:auto;
+			background-color:#202020;
+			display: table;
+			padding:0 100px 30px;
+
+
+}
+.boxstyle{
+					width:30%;
+					background-color:#505050;
+					height:250px;
+					float: left;
+					display:table;
+					padding:30px;
+					margin:1.5%;
+					box-shadow:0 0 10px 10px #101010 ;	
+}
+.title{
+			margin:0;
+			padding:0;
+			color: white;
+			font-size:20px;
+
+
+}
+.paragraph{
+
+			margin:0;
+			padding-top:20px;
+			color:#E0E0E0;
+			font-size:15px;
+}
+.feature{	color: yellow;
+			padding-top:20px;
+			margin:0 20px;
+			margin-bottom:20px;
+			font-size:13px; 
+}
+.feature-title{	color: white;
+				padding:0;
+				margin:0 20px;
+				font-size:40px	
+
+}
